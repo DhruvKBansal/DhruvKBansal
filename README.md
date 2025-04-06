@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Dhruv Kumar Bansal</h1>
 <p align="center">
   <b>Pre-Final Year CSE Student | Startup Enthusiast | Tech Events & FinTech ⚡</b><br>
-  <b>Aspiring Full-Stack Developer & Future Tech Leader 🚀</b>
+  <b>Aspiring Full-Stack Developer🚀</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Startups+at+College!;Loves+Finance+%2B+Tech+Blend+💸;Learning+DSA+in+C%2B%2B+🧠;Writing+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Startup!;Loves+Finance+%2B+Tech+Blend+💸;Learning+DSA+in+C%2B%2B+🧠;Writing+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
