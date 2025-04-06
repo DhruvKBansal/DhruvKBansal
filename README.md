@@ -1,22 +1,22 @@
 <h1 align="center">Hey there! 👋 I'm Dhruv Kumar Bansal</h1>
 <p align="center">
   <b>Pre-Final Year CSE Student | Startup Enthusiast | Tech Events & FinTech ⚡</b><br>
-  <b>Aspiring Full-Stack Developer🚀</b> <p align="center">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvkbansal&color=blue" alt="Profile Views"/>
 </p>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Startup!;Loves+Finance+%2B+Tech+Blend+💸;Learning+DSA+in+C%2B%2B+🧠;Writing+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Startup!;Loves+Finance+%2B+Tech+Blend+💸;Learning+DSA+in+Java+🧠;Writing+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🎓 CSE @ VIT Bhopal | Vice President, FinTech Club  
-- 🧑‍💼 Organized large-scale events with 900+ participants: `Auction Arena`, `StockQuest`, `FinGenAI`  
+- 🧑‍💼 Organized large-scale events with 1000+ participants: `Auction Arena`, `StockQuest`, `Finance Carnival`  
 - 🚌 Founder of **Vacation Bus Services (VBS)** – Transport startup for students  
-- 🧠 Currently exploring **DSA with C++** to prepare for upcoming placements  
+- 🧠 Currently exploring **DSA with Java** to prepare for upcoming placements  
 - 🤝 I love collaborating on student-driven ideas, events, and open-source tech
 
 ---
