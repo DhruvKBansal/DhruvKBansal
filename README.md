@@ -1,7 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Dhruv Kumar Bansal</h1>
 <p align="center">
   <b>Pre-Final Year CSE Student | Startup Enthusiast | Tech Events & FinTech ⚡</b><br>
-  <b>Aspiring Full-Stack Developer🚀</b>
+  <b>Aspiring Full-Stack Developer🚀</b> <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvkbansal&color=blue" alt="Profile Views"/>
+</p>
 </p>
 
 <p align="center">
@@ -41,10 +43,18 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvkbansal&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvkbansal&theme=algolia&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🔄 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/dhruvkbansal/dhruvkbansal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -76,86 +86,4 @@
   🚀 Thanks for stopping by! Keep building, keep dreaming. Let’s make cool things together ✨
 </p>
 
-
-<h1 align="center">Hey there, I'm Dhruv Kumar Bansal 👋</h1>
-<h3 align="center">Tech + Startups + DSA | VIT Bhopal</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvkbansal&color=blue" alt="Profile Views"/>
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🚀 I'm a **pre-final year CSE student** at **VIT Bhopal**
-- 💼 Vice President @ Fintech Club, VIT Bhopal
-- 🚌 Founder of **Vacation Bus Services** – solving travel issues for 5k+ students
-- 💻 Passionate about **Full-Stack Development**, **Startups**, and **DSA**
-- 📈 Organised 3 killer events: StockQuest, Auction Arena & FinGenAI
-
----
-
-### 🧰 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📚 Currently Learning
-- Data Structures & Algorithms (C++ + Java)
-- Full-Stack Web Development (React.js + Node.js + MongoDB)
-- UI/UX Design + Google Forms + Automation for my startup 🚀
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvkbansal&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkbansal&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
----
-
-### 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvkbansal&theme=algolia&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 🔄 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/dhruvkbansal/dhruvkbansal/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🎮 Fun Zone
-
-- 💡 *Fun Fact:* My startup runs on caffeine, code & college chaos ☕  
-- 🧠 I brainstorm in VS Code, build in GitHub, and ship at 3AM  
-- 🛠️ Ask me about: **Startups**, **Hackathons**, **Fintech**, **AI Projects**, or even **memes** 😜
-
----
-
-### 🔗 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruvkbansal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhruvkbansal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">🔥 *“Built with passion. Running on code. Scaling with vision.”*</p>
 
