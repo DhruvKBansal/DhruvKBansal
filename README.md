@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Dhruv Kumar Bansal</h1>
 <p align="center">
-  <b>Pre-Final Year CSE Student | Startup Enthusiast | Tech Events & FinTech ⚡</b><br>
+  <b>Pre-Final Year CSE Student | Startup Enthusiast | Tech Events & FinTech ⚡</b><br
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvkbansal&color=blue" alt="Profile Views"/>
 </p>
