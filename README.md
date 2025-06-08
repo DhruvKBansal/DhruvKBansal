@@ -61,6 +61,15 @@
   </picture>
 </p>
 
+---
+
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DhruvKumarBansal?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats Card">
+</p>
+
+
 
 ### 📈 GitHub Stats
 
