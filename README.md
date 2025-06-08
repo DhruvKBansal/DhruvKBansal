@@ -66,7 +66,7 @@
 ### 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DhruvKumarBansal?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats Card">
+  <img src="https://leetcard.jacoblin.cool/DhruvKumarBansal?theme=wtf&font=Inter&ext=heatmap" alt="LeetCode Stats Card">
 </p>
 
 
