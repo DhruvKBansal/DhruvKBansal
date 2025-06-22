@@ -1,49 +1,51 @@
-<h1 align="center">Hey there! 👋 I'm Dhruv Kumar Bansal</h1>
+<h1 align="center">Hi there 👋, I'm Dhruv Kumar Bansal</h1>
 <p align="center">
-  <b>Pre-Final Year CSE Student | Startup Enthusiast | Tech Events & FinTech ⚡</b><br>
-  <p align="center">
+  <b>Pre-Final Year CSE Student | Tech Meets Finance | Startup Explorer ⚡</b><br>
   <img src="https://komarev.com/ghpvc/?username=dhruvkbansal&color=blue" alt="Profile Views"/>
-</p>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+Startup!;Loves+Finance+%2B+Tech+Blend+💸;Learning+DSA+in+Java+🧠;Writing+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Startup+Builder+%F0%9F%9A%80;Finance+%2B+Tech+Blend+%F0%9F%92%B8;Learning+DSA+in+Java+%F0%9F%A7%A0;Writing+Clean%2C+Scalable+Code+%F0%9F%93%9B" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
+
 - 🎓 CSE @ VIT Bhopal | Vice President, FinTech Club  
-- 🧑‍💼 Organized large-scale events with 1000+ participants: `Auction Arena`, `StockQuest`, `Finance Carnival`  
-- 🚌 Founder of **Vacation Bus Services (VBS)** – Transport startup for students  
-- 🧠 Currently exploring **DSA with Java** to prepare for upcoming placements  
-- 🤝 I love collaborating on student-driven ideas, events, and open-source tech
+- 📢 Organized large-scale tech & finance events (1000+ participants):  
+  `Auction Arena`, `StockQuest`, `Finance Carnival`  
+- 🚌 Founder of **Vacation Bus Services (VBS)** – student transport startup  
+- 👨‍💻 Currently mastering **DSA in Java** for upcoming placements  
+- 🤝 Passionate about collaborating on student initiatives & open-source
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/-Java-blue?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
----
-
-### 💼 Featured Projects
-
-- 🎯 **Vacation Bus Services** – Booking system for college bus services  
-- 👁️‍🗨️ **Face Recognition Attendance System** – Smart classroom solution  
-- 🐒 **Monkey Portfolio Generator** – Random stock picking tool  
-- 📊 **Event Registration Manager** – Sheets + Forms automation script
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-### 🏆 Trophy Case
+### 🔥 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🚌 [**Vacation Bus Services**](#) | Booking platform for intercity bus rides tailored to students |
+| 👁️‍🗨️ **Face Recognition Attendance System** | Real-time classroom attendance tracking using Python & OpenCV |
+| 🐒 **Monkey Portfolio Generator** | Random Nifty stock picker inspired by the monkey portfolio theory |
+| 📊 **Event Registration Manager** | Automated registration + sheet management using Google Apps Script |
+
+---
+
+### 🏆 GitHub Trophy Case
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhruvkbansal&theme=algolia&no-bg=true&no-frame=true" />
@@ -51,7 +53,7 @@
 
 ---
 
-### 🔄 Contribution Snake
+### 🐍 Contribution Graph Snake
 
 <p align="center">
   <picture>
@@ -63,15 +65,15 @@
 
 ---
 
-### 📊 LeetCode Stats
+### 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DhruvKumarBansal?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats Card">
+  <img src="https://leetcard.jacoblin.cool/DhruvKumarBansal?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats">
 </p>
 
+---
 
-
-### 📈 GitHub Stats
+### 💻 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvkbansal&show_icons=true&theme=tokyonight" height="180" />
@@ -80,22 +82,22 @@
 
 ---
 
-### 📬 Let’s Connect!
+### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhruv-kumar-bansal)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:dhruvkb1@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dhruvkumarbansal)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruv-kumar-bansal"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dhruvkb1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/dhruvkumarbansal"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
 ### 💡 Dev Quote of the Day
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
 
 ---
 
 <p align="center">
-  🚀 Thanks for stopping by! Keep building, keep dreaming. Let’s make cool things together ✨
+  🚀 Thanks for visiting! Let's innovate, build, and learn together ✨
 </p>
-
-
