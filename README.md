@@ -37,7 +37,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚌 [**Vacation Bus Services**](#) | Booking platform for intercity bus rides tailored to students |
+| 🚌 [**Vacation Bus Services**](https://vacationbusservices.live/) | Booking platform for intercity bus rides tailored to students |
 | 👁️‍🗨️ **Face Recognition Attendance System** | Real-time classroom attendance tracking using Python & OpenCV |
 | 🐒 **Monkey Portfolio Generator** | Random Nifty stock picker inspired by the monkey portfolio theory |
 | 📊 **Event Registration Manager** | Automated registration + sheet management using Google Apps Script |
